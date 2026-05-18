@@ -1,0 +1,6 @@
+PyQt6>=6.5.0
+mss>=9.0.1
+pyautogui>=0.9.54
+keyboard>=0.13.5
+winsdk>=1.0.0.b9
+pygetwindow>=0.0.9
